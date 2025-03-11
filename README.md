@@ -20,7 +20,7 @@ The Traveling Salesman Problem (TSP) is a well-known NP-complete problem that po
 # Objectives of each_Phase :pushpin:
 ---
 ##### Phase 1: 
-* Implement the model in a computer program.
+* Design,experimentation and  implementation of Tabu Search algorithm with different parallelization styles
 ##### Phase 2:
 * Use the program to calculate theoptimal route of a study case example->
   * City,Country Scale instances
