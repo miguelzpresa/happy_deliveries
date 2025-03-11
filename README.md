@@ -22,9 +22,9 @@ The Traveling Salesman Problem (TSP) is a well-known NP-complete problem that po
 ##### Phase 1: 
 * Design,experimentation and  implementation of Tabu Search algorithm with different parallelization styles
 ##### Phase 2:
-* Use the program to calculate theoptimal route of a study case example->
-  * City,Country Scale instances
-  to showcasing the power of Paralellization & Metaheuristics
+* Use the program to calculate the optimal route given a map of México with
+  its respective delivery points and fulfillment centers,apply the algorithm
+  in order to showcase the power of Paralellization & Metaheuristics
 ##### Phase 3:
 * Visual UI dev
 ##### Phase 4: Integration and Testing
