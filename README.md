@@ -17,7 +17,7 @@ Moreover, the proposed method enhances the capability to escape local optima thr
 The Traveling Salesman Problem (TSP) is a well-known NP-complete problem that poses significant computational challenges due to its combinatorial nature. Traditional optimization techniques often fall short when dealing with the immense solution space, making it imperative to explore advanced metaheuristics.
 
 ---
-# Objectives_of_each_Phase :pushpin:
+# Objectives of each_Phase :pushpin:
 ---
 ##### Phase 1: 
 * Implement the model in a computer program.
@@ -46,7 +46,7 @@ Conduct exhaustive testing to ensure that the system works correctly in all situ
 
 
 ---
-# Executing_Software_Intructions :surfer:
+# Executing Software Instructions :surfer:
 ---
 
 # License :space_invader:
