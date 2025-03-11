@@ -22,7 +22,9 @@ The Traveling Salesman Problem (TSP) is a well-known NP-complete problem that po
 ##### Phase 1: 
 * Implement the model in a computer program.
 ##### Phase 2:
-* Use the program to calculate theoptimal route of a study case example-> City,Country Scale instances to showcasing the power of Paralellization & Metaheuristics
+* Use the program to calculate theoptimal route of a study case example->
+  * City,Country Scale instances
+  to showcasing the power of Paralellization & Metaheuristics
 ##### Phase 3:
 * Visual UI dev
 ##### Phase 4: Integration and Testing
@@ -36,6 +38,11 @@ Conduct exhaustive testing to ensure that the system works correctly in all situ
 
 # Tech Stack :pencil2:
 ---
+1. openmpi
+3. Makefile
+4. mpicc
+5. docker
+
 
 
 ---
